@@ -1,7 +1,7 @@
 {
   "name": "uwu",
   "version": "1.0.0",
-  "description": "Ultraviolet instance",
+  "description": "uwu instance",
   "type": "module",
   "engines": {
     "npm": ">=7.0.0",
